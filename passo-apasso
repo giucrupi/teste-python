@@ -51,15 +51,11 @@
 	- "git show " + o valor-hash este comando mostra tudo que foi feito neste commit.
 
 
-<<<<<<< HEAD
+
 	ETAPA6 - desfazendo mudanças.
 	- o comando "git reset valor-hash" reseta o commit para o do valor de referencia, porem exclui o ultimo
 	- para descartar todas as mudanças o comando é : "git checkout nome-do-arquivo"
-=======
-ETAPA6 - desfazendo mudanças.
-- o comando "git reser valor-hash" reseta o commit para o do valor de referencia, porem exclui o ultimo
-- para descartar todas as mudanças o comando é : "git checkout nome-do-arquivo"
->>>>>>> 5c25af6dd424fac9ac4f9714af880caca26b7511
+
 
 
 	ETAPA 7  - Lidando com conflito
