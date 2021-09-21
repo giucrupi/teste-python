@@ -60,3 +60,11 @@
 
 	ETAPA 7  - Lidando com conflito
 	-
+
+
+	git add .
+	este comando adiciona tudo que esta na pasta.
+
+
+	git commit -am ""
+	este comando adiciona e commita tudo.
