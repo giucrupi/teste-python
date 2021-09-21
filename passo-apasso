@@ -26,3 +26,9 @@ ETAPA 2
 ETAPA3
 Obs(lembrando que o commit são as adições e modificações que vc fez num arquivo)
 -para comitar uma rquivo digite "git commit -m "insira a mensagem aqui"
+- pode ser que de erro, voce vai precisar cadastrar seu e-mail e o nome de usuario{
+	
+	e-mail: (git config --global user.email"giuli_crupi@icloud.com")
+	usuario: (git config --global user.name"nome")
+
+}
