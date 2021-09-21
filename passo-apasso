@@ -1,0 +1,28 @@
+
+
+
+
+ETAPA 1
+-fazer o caminho ate a pasta desejada pelo terminal
+- criar usuario{
+	git config --global user.name "nome desejado"
+}
+- conferir usuario {
+	git config --global user.name
+}
+
+
+ETAPA 2
+-criar repositorio no github
+- copiar comando abaixo da frase do git hub "…or push an existing repository from the command line"
+- para iniciar o git digite  "git init"
+- cole o arquivo copiado do git hub
+- para verificar os arquivos digite " git status"
+- para reconhecer o arquivo digite "git add nome_do_arquivo"
+
+
+
+
+ETAPA3
+Obs(lembrando que o commit são as adições e modificações que vc fez num arquivo)
+-para comitar uma rquivo digite "git commit -m "insira a mensagem aqui"
