@@ -52,5 +52,7 @@ ETAPA5
 
 
 ETAPA6 - desfazendo mudanças.
+- o comando "git reser valor-hash" reseta o commit para o do valor de referencia, porem exclui o ultimo
+- para descartar todas as mudanças o comando é : "git checkout nome-do-arquivo"
 
 
