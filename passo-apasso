@@ -40,3 +40,17 @@ ETAPA4
 - para enviar o codigo ao git hub digite o comando "git push origin master"
 - gerar um token para conseguir conectar e colocar o token no lugar da senha.
 - para pegar uma atualização feita no arquivo por outra pessoa, ou seja ter a certeza que este é o ultimo arquivo digite "git pull origin master"
+
+
+
+
+ETAPA5
+-verificar as mudanças use o "git diff" ele mostra as diferenças no codigo.
+- o comando "git log" mostra quais foram os ultimos commits.
+- o comando "git shortlog" ele mostra tudo que o GIT LOG mostra porem de forma simplificada.
+- "git show " + o valor-hash este comando mostra tudo que foi feito neste commit.
+
+
+ETAPA6 - desfazendo mudanças.
+
+
