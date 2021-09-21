@@ -39,4 +39,4 @@ Obs(lembrando que o commit são as adições e modificações que vc fez num arq
 ETAPA4
 - para enviar o codigo ao git hub digite o comando "git push origin master"
 - gerar um token para conseguir conectar e colocar o token no lugar da senha.
-- para pegar uma atualização feita no arquivo por outra pessoa, ou seja ter a certeza que este é o ultimo arquivo digite "git pull origin master".
+- para pegar uma atualização feita no arquivo por outra pessoa, ou seja ter a certeza que este é o ultimo arquivo digite "git pull origin master"
